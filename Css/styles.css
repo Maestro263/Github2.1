@@ -10,8 +10,10 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    margin: 0; /* Ingen ydre margen fra overskrifter */
-    padding: 0; /* Ingen indre margen fra overskrifter */
+    margin-top: 20%;
+    margin-left: 25%;
+    color: deeppink;
+    font-size: 80pt;
 }
 
 ul, ol {
